@@ -6,6 +6,6 @@ button {
   cursor: pointer;
 }
 button:hover {
-  padding: 13;
+  padding: 13px;
   background-color: orange;
 }
