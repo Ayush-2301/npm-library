@@ -1,6 +1,6 @@
 {
   "name": "@ayush-2002/npm-library",
-  "version": "0.0.",
+  "version": "0.0.1",
   "description": "testing library configuration",
   "scripts": {
     "start": "rollup -c -w",
